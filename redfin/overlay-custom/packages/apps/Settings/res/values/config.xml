@@ -21,4 +21,9 @@
     <!-- Whether to show Smooth Display feature in Settings Options -->
     <bool name="config_show_smooth_display">true</bool>
 
+    <!-- Reverse charging -->
+    <bool name="config_show_reverse_charging">true</bool>
+
+    <!-- Wireless charger -->
+    <bool name="config_nfc_conflict_with_wlc">true</bool>
 </resources>
