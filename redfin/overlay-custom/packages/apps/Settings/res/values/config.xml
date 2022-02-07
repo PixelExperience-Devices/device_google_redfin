@@ -5,4 +5,6 @@
     <bool name="config_show_refresh_rate_controls">true</bool>
     <bool name="config_supports_dynamic_refresh_rate_controls">false</bool>
 
+    <!-- Reverse charging -->
+    <bool name="config_show_reverse_charging">true</bool>
 </resources>
