@@ -1,0 +1,13 @@
+[
+  {
+    "repository": "device_google_redbull",
+    "target_path": "device/google/redbull",
+    "branch": "twelve"
+  },
+  {
+    "repository": "vendor_google_redfin",
+    "target_path": "vendor/google/redfin",
+    "branch": "twelve",
+    "remote": "pixel-devices-blobs"
+  }
+]
