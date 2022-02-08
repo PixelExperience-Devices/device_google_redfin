@@ -13,3 +13,7 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/redfin/overlay-custom
 PRODUCT_PRODUCT_PROPERTIES += \
     persist.columbus.use_ap_sensor=false \
     persist.columbus.model=tap7cls_redfin.tflite
+
+# HBM
+PRODUCT_PACKAGES += \
+    HbmSVManagerOverlay
