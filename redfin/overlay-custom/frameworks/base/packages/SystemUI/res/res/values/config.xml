@@ -4,4 +4,5 @@
     <bool name="config_nfc_conflict_with_wlc">true</bool>
     <bool name="config_vibrateOnIconAnimation">true</bool>
     <bool name="config_wlc_support_enabled">true</bool>
+    <string name="config_dockComponent">com.google.android.systemui.dreamliner.WirelessChargerImpl</string>
 </resources>
