@@ -9,5 +9,10 @@
     "target_path": "vendor/google/redfin",
     "branch": "twelve",
     "remote": "pixel-devices-blobs"
+  },
+  {
+    "repository": "kernel_google_redbull",
+    "target_path": "kernel/google/redbull",
+    "branch": "twelve"
   }
 ]
