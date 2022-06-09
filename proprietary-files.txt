@@ -611,10 +611,7 @@ system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
 system_ext/etc/permissions/com.android.omadm.radioconfig.xml
 system_ext/etc/permissions/com.google.euiccpixel.permissions.xml
 system_ext/etc/permissions/com.google.euiccpixel.xml
-system_ext/etc/permissions/google-ril.xml
 system_ext/framework/RadioConfigLib.jar
-system_ext/framework/google-ril.jar
-system_ext/priv-app/ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk
 system_ext/priv-app/EuiccSupportPixel/esim-full-v1.img
 system_ext/priv-app/EuiccSupportPixel/EuiccSupportPixel.apk;PRESIGNED
 system_ext/priv-app/EuiccSupportPixelPermissions/EuiccSupportPixelPermissions.apk;PRESIGNED
