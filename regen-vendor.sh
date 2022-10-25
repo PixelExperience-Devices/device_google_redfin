@@ -1125,7 +1125,7 @@ VENDOR_SKIP_FILES=(
     "rfs/msm/slpi/shared"
 
     # Exclude files that compile with BUILD_WITHOUT_VENDOR := false
-    # or manually added as build targets in device-lineage.mk
+    # or manually added as build targets in device-custom.mk
 
     # Bluetooth
     "lib/android.hardware.bluetooth@1.0.so"
