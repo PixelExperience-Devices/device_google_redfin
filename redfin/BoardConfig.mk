@@ -33,4 +33,4 @@ else
   -include vendor/google_devices/redfin/proprietary/BoardConfigVendor.mk
 endif
 
-include device/google/redfin/BoardConfigLineage.mk
+include device/google/redfin/BoardConfigCustom.mk
