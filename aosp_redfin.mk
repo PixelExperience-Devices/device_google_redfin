@@ -75,8 +75,7 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 include device/google/redfin/device-custom.mk
 
 # Boot animation
-TARGET_SCREEN_HEIGHT := 2340
-TARGET_SCREEN_WIDTH := 1080
+TARGET_BOOT_ANIMATION_RES := 1080
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_PRODUCT=redfin \
